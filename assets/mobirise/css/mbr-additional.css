@@ -1779,7 +1779,7 @@ body {
   color: #767676 !important;
 }
 .cid-raIF0ylFAZ {
-  background-color: #0072bc;
+  background-color: #ffffff;
 }
 .cid-raIF0ylFAZ .icons-media-container {
   display: flex;
@@ -1803,6 +1803,9 @@ body {
 }
 .cid-raIF0ylFAZ .card {
   padding-bottom: 1.5rem;
+}
+.cid-raIF0ylFAZ H1 {
+  color: #0072bc;
 }
 .cid-raIF4frpxP {
   padding-top: 0px;
