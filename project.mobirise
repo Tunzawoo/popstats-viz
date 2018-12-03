@@ -593,7 +593,7 @@
           "_global": false,
           "_once": false,
           "_params": {
-            "text_all": "All",
+            "text_all": "All Populations",
             "gallery__filtersTextStyle": "display-7",
             "gallery__filtersBtnStyle": "btn-primary-outline",
             "gallery": [
@@ -602,10 +602,23 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/ref-total-195-2017-1651x784.png",
-                "thumb": "@PROJECT_PATH@/assets/images/ref-total-195-2017-1651x784-800x380.png",
+                "image": "@PROJECT_PATH@/assets/images/ref-total-195-2017-1357x775.png",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-total-195-2017-1357x775-800x457.png",
                 "alt": "",
                 "title": "Refugee Population Trends from 1951 to 2017",
+                "customStyle1": "display-7",
+                "caption": "Refugee population trends from 1951 to 2017",
+                "active": false
+              },
+              {
+                "tags": "Refugees",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/ref-unhcr-region-1357x775.png",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-unhcr-region-1357x775-800x457.png",
+                "alt": "",
+                "title": "Refugee population flow by UNHCR regions at end-2017",
                 "customStyle1": "display-7",
                 "caption": "Refugee Population Trends from 1951 to 2017",
                 "active": true
