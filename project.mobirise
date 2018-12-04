@@ -634,6 +634,19 @@
                 "title": "IDPs from 1993 to 2017",
                 "customStyle1": "display-7",
                 "caption": "IDP of concern to UNHCR from 1993 to 2017",
+                "active": false
+              },
+              {
+                "tags": "Refugees",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/asy-app-2000-2017-1356x774.png",
+                "thumb": "@PROJECT_PATH@/assets/images/asy-app-2000-2017-1356x774-800x457.png",
+                "alt": "",
+                "title": "Asylum applications from 2000 to 2017",
+                "customStyle1": "display-7",
+                "caption": "New &amp; repeated asylum application from 2000 to 2017",
                 "active": true
               }
             ]
