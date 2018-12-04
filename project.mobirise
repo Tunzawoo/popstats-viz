@@ -608,7 +608,7 @@
                 "title": "Refugee Population Trends from 1951 to 2017",
                 "customStyle1": "display-7",
                 "caption": "Refugee population trends from 1951 to 2017",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Refugees",
@@ -633,8 +633,8 @@
                 "alt": "",
                 "title": "IDPs from 1993 to 2017",
                 "customStyle1": "display-7",
-                "caption": "Refugee population trends from 1951 to 2017",
-                "active": false
+                "caption": "IDP of concern to UNHCR from 1993 to 2017",
+                "active": true
               }
             ]
           },
