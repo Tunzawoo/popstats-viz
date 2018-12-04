@@ -598,7 +598,7 @@
             "gallery__filtersBtnStyle": "btn-primary-outline",
             "gallery": [
               {
-                "tags": "Refugees",
+                "tags": "IDPs",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -608,7 +608,7 @@
                 "title": "Refugee Population Trends from 1951 to 2017",
                 "customStyle1": "display-7",
                 "caption": "Refugee population trends from 1951 to 2017",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Refugees",
@@ -621,7 +621,20 @@
                 "title": "Refugee population flow by UNHCR regions at end-2017",
                 "customStyle1": "display-7",
                 "caption": "Refugee population trends from 1951 to 2017",
-                "active": true
+                "active": false
+              },
+              {
+                "tags": "Refugees",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/idps-1993-2017-1356x774.png",
+                "thumb": "@PROJECT_PATH@/assets/images/idps-1993-2017-1356x774-800x457.png",
+                "alt": "",
+                "title": "IDPs from 1993 to 2017",
+                "customStyle1": "display-7",
+                "caption": "Refugee population trends from 1951 to 2017",
+                "active": false
               }
             ]
           },
