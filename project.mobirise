@@ -635,7 +635,7 @@
                 "title": "Refugee population flow by UNHCR regions at end-2017",
                 "customStyle1": "display-7",
                 "caption": "Refugee population trends from 1951 to 2017",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Asylum-seekers",
@@ -661,7 +661,20 @@
                 "title": "Top 10 confirmation of nationality for stateless population",
                 "customStyle1": "display-7",
                 "caption": "Top 10 years of confirming nationaltiy",
-                "active": true
+                "active": false
+              },
+              {
+                "tags": "Refugees",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/ref-pop-1951.gif",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-pop-1951-800x410.gif",
+                "alt": "",
+                "title": "Refugee population by country of asylum from 1951 to 2017",
+                "customStyle1": "display-7",
+                "caption": "Refugee population by country of asylum from 1951 to 2017",
+                "active": false
               }
             ]
           },
