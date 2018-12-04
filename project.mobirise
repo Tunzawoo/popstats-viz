@@ -635,7 +635,7 @@
                 "title": "Refugee population flow by UNHCR regions at end-2017",
                 "customStyle1": "display-7",
                 "caption": "Refugee population trends from 1951 to 2017",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Asylum-seekers",
@@ -655,8 +655,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/top-10-sta-confrim-1357x775.png",
-                "thumb": "@PROJECT_PATH@/assets/images/top-10-sta-confrim-1357x775-800x457.png",
+                "image": "@PROJECT_PATH@/assets/images/top-10-sta-confrim-1-1357x775.png",
+                "thumb": "@PROJECT_PATH@/assets/images/top-10-sta-confrim-1-1357x775-800x457.png",
                 "alt": "",
                 "title": "Top 10 confirmation of nationality for stateless population",
                 "customStyle1": "display-7",
@@ -668,13 +668,13 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/ref-pop-1951.gif",
-                "thumb": "@PROJECT_PATH@/assets/images/ref-pop-1951-800x410.gif",
+                "image": "@PROJECT_PATH@/assets/images/ref-pop-1952.gif",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-pop-1952-800x410.gif",
                 "alt": "",
                 "title": "Refugee population by country of asylum from 1951 to 2017",
                 "customStyle1": "display-7",
                 "caption": "Refugee population by country of asylum from 1951 to 2017",
-                "active": false
+                "active": true
               }
             ]
           },
