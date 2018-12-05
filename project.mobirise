@@ -647,7 +647,7 @@
                 "alt": "",
                 "title": "Refugee Population Trends from 1951 to 2017",
                 "customStyle1": "display-7",
-                "caption": "Refugee population trends from 1951 to 2017",
+                "caption": "With 19.9 million refugees under UNHCR's mandate at the end of 2017, it was the highest ever since 1951.",
                 "active": false
               },
               {
@@ -660,7 +660,7 @@
                 "alt": "",
                 "title": "IDPs from 1993 to 2017",
                 "customStyle1": "display-7",
-                "caption": "IDP of concern to UNHCR from 1993 to 2017",
+                "caption": "IDP population of concern to UNHCR at the end of 2017 was 39.9 million.",
                 "active": false
               },
               {
@@ -673,7 +673,7 @@
                 "alt": "",
                 "title": "Refugee population flow by UNHCR regions at end-2017",
                 "customStyle1": "display-7",
-                "caption": "Refugee population trends from 1951 to 2017",
+                "caption": "Majority of refugees seek asylum in the neighbouring countries in the immediate regions.",
                 "active": false
               },
               {
@@ -686,7 +686,7 @@
                 "alt": "",
                 "title": "Asylum applications from 2000 to 2017",
                 "customStyle1": "display-7",
-                "caption": "New and repeated asylum application from 2000 to 2017",
+                "caption": "Out of total applications received during 2017, 88% of applications were new.",
                 "active": false
               },
               {
@@ -699,7 +699,7 @@
                 "alt": "",
                 "title": "Top 10 confirmation of nationality for stateless population",
                 "customStyle1": "display-7",
-                "caption": "Top 10 years of confirming nationaltiy<br>",
+                "caption": "Almost 3 million stateless persons were confirmed their nationalities in 2007.<br>",
                 "active": true
               }
             ]
