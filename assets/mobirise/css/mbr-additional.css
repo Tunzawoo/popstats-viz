@@ -1807,6 +1807,26 @@ body {
 .cid-raIF0ylFAZ H1 {
   color: #ffffff;
 }
+.cid-rbm8dMdsrG {
+  background: #ffffff;
+}
+.cid-rbm8dMdsrG .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-rbm8dMdsrG figcaption {
+  position: relative;
+}
+.cid-rbm8dMdsrG figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rbm8dMdsrG .image-block {
+    width: 100% !important;
+  }
+}
 .cid-raIF4frpxP {
   padding-top: 135px;
   padding-bottom: 135px;
