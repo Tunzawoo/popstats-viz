@@ -1809,10 +1809,11 @@ body {
 }
 .cid-rbm8dMdsrG {
   background: #ffffff;
+  padding-top: 30px;
+  padding-bottom: 30px;
 }
 .cid-rbm8dMdsrG .image-block {
   margin: auto;
-  width: 100% !important;
 }
 .cid-rbm8dMdsrG figcaption {
   position: relative;
