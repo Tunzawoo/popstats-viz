@@ -738,7 +738,20 @@
                 "alt": "",
                 "title": "Top 10 refugee hosting countries",
                 "customStyle1": "display-7",
-                "caption": "More than 63% of refugees are residing in ten countries of asylum at end-2017.",
+                "caption": "More than 63% of refugees were residing in ten countries of asylum at end-2017.",
+                "active": false
+              },
+              {
+                "tags": "Refugees, IDPs, Asylum-seekers",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/top-10-ref-idp-asy-end2017-1357x775.png",
+                "thumb": "@PROJECT_PATH@/assets/images/top-10-ref-idp-asy-end2017-1357x775-800x457.png",
+                "alt": "",
+                "title": "Top 10 countries of asylum for refugees, asylum-seeker and IDPs",
+                "customStyle1": "display-7",
+                "caption": "70 % of global forcibly displaced population was residing in 27 countries of asylum at end-2017.<br>",
                 "active": true
               }
             ]
