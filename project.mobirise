@@ -674,33 +674,7 @@
                 "title": "Refugee population flow by UNHCR regions at end-2017",
                 "customStyle1": "display-7",
                 "caption": "Majority of refugees seek asylum in the neighbouring countries in the immediate regions.",
-                "active": false
-              },
-              {
-                "tags": "Asylum-seekers",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/asy-app-2000-2017-1356x774.png",
-                "thumb": "@PROJECT_PATH@/assets/images/asy-app-2000-2017-1356x774-800x457.png",
-                "alt": "",
-                "title": "Asylum applications from 2000 to 2017",
-                "customStyle1": "display-7",
-                "caption": "Out of total applications received during 2017, 88% of applications were new.",
-                "active": false
-              },
-              {
-                "tags": "Stateless",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/top-10-sta-confrim-1-1357x775.png",
-                "thumb": "@PROJECT_PATH@/assets/images/top-10-sta-confrim-1-1357x775-800x457.png",
-                "alt": "",
-                "title": "Top 10 confirmation of nationality for stateless population",
-                "customStyle1": "display-7",
-                "caption": "Almost 3 million stateless persons were confirmed their nationalities in 2007.<br>",
-                "active": false
+                "active": true
               },
               {
                 "tags": "IDPs",
@@ -752,7 +726,7 @@
                 "title": "Top 10 countries of asylum for refugees, asylum-seeker and IDPs",
                 "customStyle1": "display-7",
                 "caption": "70 % of global forcibly displaced population was residing in 27 countries of asylum at end-2017.<br>",
-                "active": true
+                "active": false
               }
             ]
           }
